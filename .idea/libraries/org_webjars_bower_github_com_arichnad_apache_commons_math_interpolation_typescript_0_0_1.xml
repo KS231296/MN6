@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.webjars.bower:github-com-arichnad-apache-commons-math-interpolation-typescript:0.0.1" type="repository">
+    <properties maven-id="org.webjars.bower:github-com-arichnad-apache-commons-math-interpolation-typescript:0.0.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/bower/github-com-arichnad-apache-commons-math-interpolation-typescript/0.0.1/github-com-arichnad-apache-commons-math-interpolation-typescript-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
